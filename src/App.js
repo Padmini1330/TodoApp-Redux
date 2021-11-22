@@ -8,6 +8,7 @@ function App() {
     console.log("Actual duration is : "+actualDuration+
                 "base duration is : "+baseDuration);
 }
+
   return (
   <Profiler id="todo" onRender={callbackFunction}>
   <Todos />
