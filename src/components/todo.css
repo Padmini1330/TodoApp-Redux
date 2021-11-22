@@ -1,0 +1,15 @@
+.addTodos{
+    padding-bottom: 20%;
+    background-color: salmon;
+    margin-top: 5%;
+    width: 50%;
+    margin-left: 15%;
+    border-style: solid;
+    padding-top: 5%;
+    padding-left: 15%;
+}   
+
+.inputHandler{
+    display: block;
+    margin-left: 15%;
+}
